@@ -1,3 +1,2 @@
 # hello-world
-master
-felix-1
+felix-2
